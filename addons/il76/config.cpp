@@ -26,3 +26,11 @@ class CfgPatches
 		requiredAddons[] = {"main"};
 	};
 };
+
+#include "cfgAmmo.hpp"
+#include "cfgEventHandlers.hpp"
+#include "cfgMagazine.hpp"
+#include "cfgSounds.hpp"
+#include "cfgVehicle.hpp"
+#include "cfgWeapon.hpp"
+
