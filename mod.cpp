@@ -1,0 +1,11 @@
+name = "Wings Of Russia";
+author = "STUDIO SARMAT";
+picture = "";
+description = "";
+logo = "";
+logoOver = "";
+tooltip = "";
+overview = "";
+overviewPicture = "";
+overviewText = "";
+overviewFootnote = "";
